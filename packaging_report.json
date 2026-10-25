@@ -1,0 +1,165 @@
+{
+  "generated_at_utc": "2026-10-10T15:15:47.187451+00:00",
+  "archives": [
+    {
+      "category": "dc_power_connector",
+      "archive_path": "realiad_mvn_raw/dc_power_connector.zip",
+      "image_file_count": 5498,
+      "original_image_bytes": 3856435733,
+      "archive_bytes": 3858137563,
+      "sha256": "d18b986afca7a6ad086b626028c0b3b0a0819a5e36c82811aca21afbb29b1531"
+    },
+    {
+      "category": "fork_crimp_terminal",
+      "archive_path": "realiad_mvn_raw/fork_crimp_terminal.zip",
+      "image_file_count": 4657,
+      "original_image_bytes": 942466341,
+      "archive_bytes": 943898615,
+      "sha256": "8d581c21db4c7d2cd0f62aaab1bc67f4f9ac82f8402a28e3de47c6132f43a84a"
+    },
+    {
+      "category": "ethernet_connector",
+      "archive_path": "realiad_mvn_raw/ethernet_connector.zip",
+      "image_file_count": 4748,
+      "original_image_bytes": 2102436016,
+      "archive_bytes": 2103888258,
+      "sha256": "c89fc204acf03c38ca2e7fd6b032eef5ae7ad9f56054828501c4e4afe98cd1b0"
+    },
+    {
+      "category": "fuse_holder",
+      "archive_path": "realiad_mvn_raw/fuse_holder.zip",
+      "image_file_count": 4742,
+      "original_image_bytes": 1985539029,
+      "archive_bytes": 1986863561,
+      "sha256": "378193c393b293c433ab486aa57a00aaeda67ef37303481e508eb565916ad374"
+    },
+    {
+      "category": "common_mode_filter",
+      "archive_path": "realiad_mvn_raw/common_mode_filter.zip",
+      "image_file_count": 5477,
+      "original_image_bytes": 945395223,
+      "archive_bytes": 947086433,
+      "sha256": "0857f4db04ed24b31693c31b97de4c34d47dd72d322f98584f735bcf1d543025"
+    },
+    {
+      "category": "crimp_st_cable_mount_box",
+      "archive_path": "realiad_mvn_raw/crimp_st_cable_mount_box.zip",
+      "image_file_count": 5410,
+      "original_image_bytes": 2625822892,
+      "archive_bytes": 2627586038,
+      "sha256": "2ff0cd167b743fbb91e04317f59c294c6386597c69888ad225cf4f8e5df7b8cc"
+    },
+    {
+      "category": "connector_housing_female",
+      "archive_path": "realiad_mvn_raw/connector_housing_female.zip",
+      "image_file_count": 5487,
+      "original_image_bytes": 1284583409,
+      "archive_bytes": 1286373689,
+      "sha256": "257f8f46378ee9ee9e9e031481984440980fa7fad5ba1b81abdbb3c7c94df89d"
+    },
+    {
+      "category": "lego_pin_connector_plate",
+      "archive_path": "realiad_mvn_raw/lego_pin_connector_plate.zip",
+      "image_file_count": 5331,
+      "original_image_bytes": 949964176,
+      "archive_bytes": 951729080,
+      "sha256": "fa59746d628ae660416a6199af83c5e5b0332b86fb00856237121bd9531ecc3a"
+    },
+    {
+      "category": "knob_cap",
+      "archive_path": "realiad_mvn_raw/knob_cap.zip",
+      "image_file_count": 4643,
+      "original_image_bytes": 642500293,
+      "archive_bytes": 643737495,
+      "sha256": "b06de2d803b5944bfb57997381478b7448ca43127503bcb62627bc1e9b8214a7"
+    },
+    {
+      "category": "lattice_block_plug",
+      "archive_path": "realiad_mvn_raw/lattice_block_plug.zip",
+      "image_file_count": 5164,
+      "original_image_bytes": 1897596863,
+      "archive_bytes": 1899249815,
+      "sha256": "5f6a927a0dbad309b594c91e429617b908a74b023354df9ea5e01acc63565e95"
+    },
+    {
+      "category": "humidity_sensor",
+      "archive_path": "realiad_mvn_raw/humidity_sensor.zip",
+      "image_file_count": 5493,
+      "original_image_bytes": 1735592703,
+      "archive_bytes": 1737238721,
+      "sha256": "0f0cbf282afc08bfa034cc343e2c18769126111d537c55022064652fc4e81d63"
+    },
+    {
+      "category": "ferrite_bead",
+      "archive_path": "realiad_mvn_raw/ferrite_bead.zip",
+      "image_file_count": 3999,
+      "original_image_bytes": 2454764844,
+      "archive_bytes": 2455878764,
+      "sha256": "67b756b741e26ad13d471a837c6efcbbec8677237840831677f7d8ed619abe0b"
+    },
+    {
+      "category": "power_jack",
+      "archive_path": "realiad_mvn_raw/power_jack.zip",
+      "image_file_count": 5348,
+      "original_image_bytes": 2606037357,
+      "archive_bytes": 2607541867,
+      "sha256": "e7bdc90990bfd95c3c9cb4bb1d58de3264ca81f6b55276382cb0c58a80051381"
+    },
+    {
+      "category": "telephone_spring_switch",
+      "archive_path": "realiad_mvn_raw/telephone_spring_switch.zip",
+      "image_file_count": 6250,
+      "original_image_bytes": 3870245397,
+      "archive_bytes": 3872335873,
+      "sha256": "902bca4f8e7faca22c306cff8c85e1457302ef3cc961cad426d8ece33dddbb21"
+    },
+    {
+      "category": "miniature_lifting_motor",
+      "archive_path": "realiad_mvn_raw/miniature_lifting_motor.zip",
+      "image_file_count": 3982,
+      "original_image_bytes": 3735210661,
+      "archive_bytes": 3736496239,
+      "sha256": "0ef931bc44fe537aefa50fcf6b021ecf786e5d1017680c2e283d6d6238b7c4eb"
+    },
+    {
+      "category": "purple_clay_pot",
+      "archive_path": "realiad_mvn_raw/purple_clay_pot.zip",
+      "image_file_count": 5500,
+      "original_image_bytes": 3755378022,
+      "archive_bytes": 3756995204,
+      "sha256": "67d3d1d69a1326c6860a7910fdc5cedd039a1c3e4a01a3d80e93bf6b16a3bd8b"
+    },
+    {
+      "category": "headphone_jack_socket",
+      "archive_path": "realiad_mvn_raw/headphone_jack_socket.zip",
+      "image_file_count": 6243,
+      "original_image_bytes": 1659582544,
+      "archive_bytes": 1661562280,
+      "sha256": "b8a0f6445adea509906651a80c5991645a6d675d7549848b5fc902b8603d5844"
+    },
+    {
+      "category": "lego_propeller",
+      "archive_path": "realiad_mvn_raw/lego_propeller.zip",
+      "image_file_count": 4736,
+      "original_image_bytes": 2372423854,
+      "archive_bytes": 2373772012,
+      "sha256": "141d7b60b04dfd6de088f3a422ef09e883d6bb2f47a7142a554ed79439ff013d"
+    },
+    {
+      "category": "limit_switch",
+      "archive_path": "realiad_mvn_raw/limit_switch.zip",
+      "image_file_count": 5456,
+      "original_image_bytes": 915789802,
+      "archive_bytes": 917338876,
+      "sha256": "82db30aa6f72c169ec509998cd834bd80cc8db26f4789bcb08f960524ac91482"
+    },
+    {
+      "category": "audio_jack_socket",
+      "archive_path": "realiad_mvn_raw/audio_jack_socket.zip",
+      "image_file_count": 6175,
+      "original_image_bytes": 2267612213,
+      "archive_bytes": 2269463087,
+      "sha256": "58a2d87cd5b63a7769ffbc88fa355599b8fc994740cbeb4c72354fcf65e9205b"
+    }
+  ]
+}

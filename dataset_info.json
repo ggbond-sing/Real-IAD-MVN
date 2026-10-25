@@ -1,0 +1,361 @@
+{
+  "schema_version": "2.0.0",
+  "dataset_name": "Real-IAD-MVN",
+  "license": "cc-by-nc-sa-4.0",
+  "category_count": 20,
+  "sample_directory_count": 8700,
+  "sample_directory_counts_by_status": {
+    "ng": 3700,
+    "ok": 5000
+  },
+  "defect_directory_count": 75,
+  "image_file_count": 104339,
+  "image_file_extensions": {
+    ".jpg": 68703,
+    ".png": 35636
+  },
+  "view_directory_names": [
+    "C01",
+    "C02",
+    "C03",
+    "C04",
+    "C05"
+  ],
+  "categories": [
+    {
+      "category": "dc_power_connector",
+      "source_directory_name": "DC电源插头_dc_power_connector",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "DC电源插头(凹坑)",
+        "DC电源插头(划伤)",
+        "DC电源插头(孔洞)",
+        "DC电源插头(磕伤)"
+      ],
+      "image_file_count": 5498
+    },
+    {
+      "category": "fork_crimp_terminal",
+      "source_directory_name": "U型连接器_fork_crimp_terminal",
+      "sample_directory_count": 400,
+      "sample_directory_counts_by_status": {
+        "ng": 150,
+        "ok": 250
+      },
+      "defect_directory_count": 3,
+      "defect_directory_names": [
+        "U型连接器(凹坑)",
+        "U型连接器(划伤)",
+        "U型连接器(变形)"
+      ],
+      "image_file_count": 4657
+    },
+    {
+      "category": "ethernet_connector",
+      "source_directory_name": "以太网连接器_ethernet_connector",
+      "sample_directory_count": 400,
+      "sample_directory_counts_by_status": {
+        "ng": 150,
+        "ok": 250
+      },
+      "defect_directory_count": 3,
+      "defect_directory_names": [
+        "以太网连接器(凹坑)",
+        "以太网连接器(划伤)",
+        "以太网连接器(磕伤)"
+      ],
+      "image_file_count": 4748
+    },
+    {
+      "category": "fuse_holder",
+      "source_directory_name": "保险丝座_fuse_holder",
+      "sample_directory_count": 400,
+      "sample_directory_counts_by_status": {
+        "ng": 150,
+        "ok": 250
+      },
+      "defect_directory_count": 3,
+      "defect_directory_names": [
+        "保险丝座(凹坑)",
+        "保险丝座(划伤)",
+        "保险丝座(磕伤)"
+      ],
+      "image_file_count": 4742
+    },
+    {
+      "category": "common_mode_filter",
+      "source_directory_name": "共模滤波器_common_mode_filter",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "共模滤波器(凹坑)",
+        "共模滤波器(划伤)",
+        "共模滤波器(变形)",
+        "共模滤波器(表面裸漏)"
+      ],
+      "image_file_count": 5477
+    },
+    {
+      "category": "crimp_st_cable_mount_box",
+      "source_directory_name": "圆形电缆_crimp_st_cable_mount_box",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "圆形电缆(凹坑)",
+        "圆形电缆(划伤)",
+        "圆形电缆(破损)",
+        "圆形电缆(磕伤)"
+      ],
+      "image_file_count": 5410
+    },
+    {
+      "category": "connector_housing_female",
+      "source_directory_name": "小头连接器_connector_housing_female",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 5,
+      "defect_directory_names": [
+        "小头连接器(凹坑)",
+        "小头连接器(划伤)",
+        "小头连接器(变形)",
+        "小头连接器(孔洞)",
+        "小头连接器(磕伤)"
+      ],
+      "image_file_count": 5487
+    },
+    {
+      "category": "lego_pin_connector_plate",
+      "source_directory_name": "带孔铰链板_lego_pin_connector_plate",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "带孔铰板链(凹坑)",
+        "带孔铰板链(划伤)",
+        "带孔铰板链(油污)",
+        "带孔铰板链(磕伤)"
+      ],
+      "image_file_count": 5331
+    },
+    {
+      "category": "knob_cap",
+      "source_directory_name": "旋钮帽_knob_cap",
+      "sample_directory_count": 400,
+      "sample_directory_counts_by_status": {
+        "ng": 150,
+        "ok": 250
+      },
+      "defect_directory_count": 3,
+      "defect_directory_names": [
+        "旋钮帽(划伤)",
+        "旋钮帽(破损)",
+        "旋钮帽(磕伤)"
+      ],
+      "image_file_count": 4643
+    },
+    {
+      "category": "lattice_block_plug",
+      "source_directory_name": "栅栏式接线端子_lattice_block_plug",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "栅栏式接线端子(凹坑)",
+        "栅栏式接线端子(划伤)",
+        "栅栏式接线端子(孔洞)",
+        "栅栏式接线端子(磕伤)"
+      ],
+      "image_file_count": 5164
+    },
+    {
+      "category": "humidity_sensor",
+      "source_directory_name": "湿度传感器_humidity_sensor",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "湿度传感器(凹坑)",
+        "湿度传感器(划伤)",
+        "湿度传感器(油污)",
+        "湿度传感器(磕伤)"
+      ],
+      "image_file_count": 5493
+    },
+    {
+      "category": "ferrite_bead",
+      "source_directory_name": "滤波磁环_ferrite_bead",
+      "sample_directory_count": 350,
+      "sample_directory_counts_by_status": {
+        "ng": 100,
+        "ok": 250
+      },
+      "defect_directory_count": 2,
+      "defect_directory_names": [
+        "滤波磁环(凹坑)",
+        "滤波磁环(孔洞)"
+      ],
+      "image_file_count": 3999
+    },
+    {
+      "category": "power_jack",
+      "source_directory_name": "电源插座_power_jack",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "电源插座(凹坑)",
+        "电源插座(划伤)",
+        "电源插座(气孔)",
+        "电源插座(磕伤)"
+      ],
+      "image_file_count": 5348
+    },
+    {
+      "category": "telephone_spring_switch",
+      "source_directory_name": "电话机压簧_telephone_spring_switch",
+      "sample_directory_count": 500,
+      "sample_directory_counts_by_status": {
+        "ng": 250,
+        "ok": 250
+      },
+      "defect_directory_count": 5,
+      "defect_directory_names": [
+        "电话机压簧(凹坑)",
+        "电话机压簧(划伤)",
+        "电话机压簧(孔洞)",
+        "电话机压簧(破损)",
+        "电话机压簧(磕伤)"
+      ],
+      "image_file_count": 6250
+    },
+    {
+      "category": "miniature_lifting_motor",
+      "source_directory_name": "精密升降马达_miniature_lifting_motor",
+      "sample_directory_count": 350,
+      "sample_directory_counts_by_status": {
+        "ng": 100,
+        "ok": 250
+      },
+      "defect_directory_count": 2,
+      "defect_directory_names": [
+        "精密升降马达(划伤)",
+        "精密升降马达(变形)"
+      ],
+      "image_file_count": 3982
+    },
+    {
+      "category": "purple_clay_pot",
+      "source_directory_name": "紫砂锅_purple_clay_pot",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "紫砂锅(凹坑)",
+        "紫砂锅(划伤)",
+        "紫砂锅(磕伤)",
+        "紫砂锅(缺料)"
+      ],
+      "image_file_count": 5500
+    },
+    {
+      "category": "headphone_jack_socket",
+      "source_directory_name": "耳机插座_headphone_jack_socket",
+      "sample_directory_count": 500,
+      "sample_directory_counts_by_status": {
+        "ng": 250,
+        "ok": 250
+      },
+      "defect_directory_count": 5,
+      "defect_directory_names": [
+        "耳机插座(凹坑)",
+        "耳机插座(划伤)",
+        "耳机插座(变形)",
+        "耳机插座(气孔)",
+        "耳机插座(磕伤)"
+      ],
+      "image_file_count": 6243
+    },
+    {
+      "category": "lego_propeller",
+      "source_directory_name": "螺旋桨_lego_propeller",
+      "sample_directory_count": 400,
+      "sample_directory_counts_by_status": {
+        "ng": 150,
+        "ok": 250
+      },
+      "defect_directory_count": 3,
+      "defect_directory_names": [
+        "螺旋桨(凹坑)",
+        "螺旋桨(划伤)",
+        "螺旋桨(磕伤)"
+      ],
+      "image_file_count": 4736
+    },
+    {
+      "category": "limit_switch",
+      "source_directory_name": "限位开关_limit_switch",
+      "sample_directory_count": 450,
+      "sample_directory_counts_by_status": {
+        "ng": 200,
+        "ok": 250
+      },
+      "defect_directory_count": 4,
+      "defect_directory_names": [
+        "限位开关(凹坑)",
+        "限位开关(划伤)",
+        "限位开关(变形)",
+        "限位开关(磕伤)"
+      ],
+      "image_file_count": 5456
+    },
+    {
+      "category": "audio_jack_socket",
+      "source_directory_name": "音频插座_audio_jack_socket",
+      "sample_directory_count": 500,
+      "sample_directory_counts_by_status": {
+        "ng": 250,
+        "ok": 250
+      },
+      "defect_directory_count": 5,
+      "defect_directory_names": [
+        "音频插座(凹坑)",
+        "音频插座(划伤)",
+        "音频插座(孔洞)",
+        "音频插座(气孔)",
+        "音频插座(磕伤)"
+      ],
+      "image_file_count": 6175
+    }
+  ]
+}

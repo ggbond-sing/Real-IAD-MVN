@@ -1,0 +1,32 @@
+{
+  "paper_url": "https://arxiv.org/html/2605.07149v1",
+  "reference_section": "3.3",
+  "count_comparisons": [
+    {
+      "quantity": "object_category_count",
+      "paper_count": 20,
+      "release_count": 20,
+      "difference": 0
+    },
+    {
+      "quantity": "sample_count_vs_sample_directory_count",
+      "paper_count": 8450,
+      "release_count": 8700,
+      "difference": 250
+    },
+    {
+      "quantity": "normal_sample_count_vs_ok_directory_count",
+      "paper_count": 5000,
+      "release_count": 5000,
+      "difference": 0
+    },
+    {
+      "quantity": "abnormal_sample_count_vs_ng_directory_count",
+      "paper_count": 3450,
+      "release_count": 3700,
+      "difference": 250
+    }
+  ],
+  "paper_defect_type_count": 69,
+  "release_category_specific_defect_directory_count": 75
+}

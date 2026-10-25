@@ -1,0 +1,7 @@
+{
+  "excluded_files": [
+    "湿度传感器_humidity_sensor/ng/a.py"
+  ],
+  "excluded_directories": [],
+  "unrecognized_top_level_directories": []
+}
